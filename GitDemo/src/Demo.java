@@ -12,5 +12,15 @@ public class Demo {
 		System.out.println("Hello dono rushikesh");
 	
 	}
+	
+	public void m2()
+	{
+	
+	System.out.println("branching");
+		System.out.println("mearging");
+	
+	}
+
+}
 
 }
