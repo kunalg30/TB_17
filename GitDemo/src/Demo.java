@@ -20,6 +20,14 @@ public class Demo {
 		System.out.println("mearging");
 	
 	}
+	
+	public void m3()
+	{
+	
+	System.out.println("branch==2");
+		System.out.println("mearging");
+	
+	}
 
 }
 
